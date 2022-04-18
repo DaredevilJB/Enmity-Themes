@@ -1,6 +1,6 @@
 {
 	"$schema": "https://beerpiss.github.io/enmity-theme-schema/enmity-theme.schema.json",
-	"name": "Moonlit",
+	"name": "moonlit",
 	"theme_color_map": {
 			"KEYBOARD": ["#001c1a","#FFFFFF"],
 			"BACKGROUND_PRIMARY": ["#051314","#FFFFFF"],
